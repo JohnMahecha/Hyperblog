@@ -52,3 +52,12 @@ body
     background: white;
     padding: 1em;
 }
+
+#footer
+{
+    font-size: 20px;
+    align-items: center;
+    background: #F8BEAE;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
