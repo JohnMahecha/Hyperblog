@@ -9,6 +9,8 @@ Un blog increible para el curso de Git y GitHub de platzi
 * Flujo de trabajo en GitHub
 * creado por el increible platzy team
 * incluye ejemplos en windows linux y mac 
+* disponible para todas las edades
+
 Git y GitHub tiene muchas facilidades al momento de unificar un trabjo en equipo, ya que en un proyecto de programaci&oacute;n se debe trabajar en varias ramas al mismo tiempo, mas conocidas como <b>Header</b> y <b>Footer</b>, y permite que estas dos ramas una vez terminadas se puedan fucionar, facilita la comparacion de las dos ramas y nos ayuda a crear la rama principal conocida como <b>master</b> para ejecutar nuestra programacion.
 
 Cabe resaltar que no solo se pueden crear estas dos ramas, puedes crear tantas ramas quieras, y trabajar de manera independiente cada una de ellas.
