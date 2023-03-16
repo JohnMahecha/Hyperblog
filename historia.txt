@@ -9,5 +9,11 @@ master 2
 =======
 experimento 1
 
+<<<<<<< HEAD
 master 1
 >>>>>>> 187d058 (exp 1)
+=======
+experimento 2
+
+master 1
+>>>>>>> 9f92e47 (exp 2)
