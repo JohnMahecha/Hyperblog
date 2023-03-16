@@ -7,4 +7,4 @@ Git y GitHub tiene muchas facilidades al momento de unificar un trabjo en equipo
 
 Cabe resaltar que no solo se pueden crear estas dos ramas, puedes crear tantas ramas quieras, y trabajar de manera independiente cada una de ellas.
 
-Te invito a conocer parte de lo aprendido en este Hyperblog <html src="https://github.com/JohnMahecha/Hyperblog">
+Te invito a conocer parte de lo aprendido en este <a href="https://github.com/JohnMahecha/Hyperblog">Hyperblog </a>
